@@ -1,0 +1,13 @@
+{
+  "title": "Fast Scroll",
+  "name": "scrolltotop",
+  "version": "1.0.0",
+  "description": "Scrolls instantly to top.",
+  "main": "index.js",
+  "author": "Guido Hoermann",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}

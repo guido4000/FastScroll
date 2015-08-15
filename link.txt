@@ -1,0 +1,10 @@
+
+
+https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Installation
+https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_Started_%28jpm%29
+
+https://developer.mozilla.org/en/docs/Building_an_Extension
+https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School
+https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Adding_Toolbars_and_Toolbar_Buttons
+https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Toolbar#Adding_button_by_default
+https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Adding_Events_and_Commands
